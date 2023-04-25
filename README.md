@@ -2,17 +2,22 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Install Dependencies 
+```bash
+npm install
+# or
+yarn install
+```
+
+to run the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the age calculator page.
 
 Age Calculator is on home page which is serving from `pages/index.tsx`
 
