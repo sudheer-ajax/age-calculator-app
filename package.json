@@ -2,6 +2,9 @@
   "name": "age-calculator-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "^v16.0.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
